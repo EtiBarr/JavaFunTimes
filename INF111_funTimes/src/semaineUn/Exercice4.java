@@ -1,4 +1,4 @@
-package semaineUn;
+package INF111_funTimes.src.semaineUn;
 
 import java.util.Scanner;
 

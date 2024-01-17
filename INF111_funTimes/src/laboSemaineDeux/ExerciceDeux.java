@@ -1,4 +1,4 @@
-package laboSemaineDeux;
+package INF111_funTimes.src.laboSemaineDeux;
 import java.util.Scanner;
 
 public class ExerciceDeux {

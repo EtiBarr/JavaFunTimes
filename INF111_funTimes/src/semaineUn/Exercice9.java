@@ -1,4 +1,4 @@
-package semaineUn;
+package INF111_funTimes.src.semaineUn;
 
 public class Exercice9 {
 
