@@ -41,9 +41,9 @@ public class ExerciceUn {
         return quantite > quantitee;
     }
 
-    public boolean estEgale(ExerciceUn prodUn, ExerciceUn prodDeux){
-        return prodUn.equal(prodDeux);
-    }
+    //public boolean estEgale(ExerciceUn prodUn, ExerciceUn prodDeux){
+    //    return prodUn.equal(prodDeux);
+    //}
     public static void main(String[] args){
 
         ExerciceUn produitUn = new ExerciceUn(2);
